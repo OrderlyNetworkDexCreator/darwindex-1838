@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Portfolio,Rewards,Points,Vaults,Campaigns",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Portfolio,Points,Vaults",
   "VITE_CUSTOM_MENUS": "交易大赛, https://alpha.dashwin.org; AAA联合做市商, https://rshl.aaaclub.net; 预测Coming soon, https://prediction.dashwin.org; 红利基金Coming soon, https://dashwin.org",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
